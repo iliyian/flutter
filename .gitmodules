@@ -1,0 +1,6 @@
+[submodule "life_game"]
+	path = life_game
+	url = https://github.com/iliyian/life_game.git
+[submodule "snake"]
+	path = snake
+	url = https://github.com/iliyian/snake.git
